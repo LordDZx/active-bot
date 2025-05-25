@@ -1,1 +1,25 @@
-
+{
+  "serials": [
+    {
+      "id": 1,
+      "serial": "12345-12345-1235",
+      "active": true,
+      "created_date": "2024-01-01",
+      "user": "Test User 1"
+    },
+    {
+      "id": 2,
+      "serial": "YYYYY-YYYYY-YYYYY",
+      "active": false,
+      "created_date": "2024-01-02",
+      "user": "Test User 2"
+    },
+    {
+      "id": 3,
+      "serial": "ZZZZZ-ZZZZZ-ZZZZZ",
+      "active": true,
+      "created_date": "2024-01-03",
+      "user": "Test User 3"
+    }
+  ]
+}
