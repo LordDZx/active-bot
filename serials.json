@@ -2,7 +2,7 @@
   "serials": [
     {
       "id": 1,
-      "serial": "12345-12345-1235",
+      "serial": "123456789123456789",
       "active": true,
       "created_date": "2024-01-01",
       "user": "Test User 1"
