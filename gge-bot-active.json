@@ -1,8 +1,12 @@
 {
     "valid_keys": [
-        "12345123456", //For the trial version
-        "YYYY-YYYY-YYYY-YYYY" //for tester
+        "12345123456",
+        "YYYY-YYYY-YYYY-YYYY"
     ],
+    "key_info": {
+        "12345123456": "For the trial version",
+        "YYYY-YYYY-YYYY-YYYY": "For tester"
+    },
     "version": "1.0.0",
     "last_update": "2024-01-20"
 }
